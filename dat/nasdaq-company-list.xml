@@ -177,7 +177,7 @@
   <element>
     <id>17</id>
     <name>Abraxas Petroleum Corporation (AXAS)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/axas</media>
     <score>307.073</score>
     <term>abraxas</term>
@@ -763,7 +763,7 @@
   <element>
     <id>71</id>
     <name>Albany Molecular Research Inc. (AMRI)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/amri</media>
     <score>87.324</score>
     <term>inc.</term>
@@ -1295,7 +1295,7 @@
   <element>
     <id>118</id>
     <name>American Independence Corp. (AMIC)</name>
-    <title>Finance - Accident &Health Insurance</title>
+    <title>Finance - Accident &amp;Health Insurance</title>
     <media>http://www.nasdaq.com/symbol/amic</media>
     <score>36.227</score>
     <term>american</term>
@@ -1821,7 +1821,7 @@
   <element>
     <id>166</id>
     <name>Apco Oil and Gas International Inc. (APAGF)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/apagf</media>
     <score>727.361</score>
     <term>gas</term>
@@ -1926,7 +1926,7 @@
   <element>
     <id>175</id>
     <name>Approach Resources Inc. (AREX)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/arex</media>
     <score>1070.2</score>
     <term>approach</term>
@@ -1972,7 +1972,7 @@
   <element>
     <id>179</id>
     <name>Arca Biopharma Inc. (ABIO)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/abio</media>
     <score>12.305</score>
     <term>arca</term>
@@ -2181,7 +2181,7 @@
   <element>
     <id>198</id>
     <name>Arrowhead Research Corporation (ARWR)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/arwr</media>
     <score>54.2194</score>
     <term>arrowhead</term>
@@ -2203,7 +2203,7 @@
   <element>
     <id>200</id>
     <name>ArthroCare Corporation (ARTC)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/artc</media>
     <score>852.628</score>
     <term>arthrocare</term>
@@ -2282,24 +2282,24 @@
   </element>
   <element>
     <id>207</id>
-    <name>Asia Entertainment & Resources Ltd (AERL)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <name>Asia Entertainment &amp; Resources Ltd (AERL)</name>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/aerl</media>
     <score>246.017</score>
     <term>resources</term>
     <term>ltd</term>
     <term>asia</term>
     <term>entertainment</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>aerl</term>
   </element>
   <element>
     <id>208</id>
-    <name>Asia Pacific Wire & Cable Corporation Limited (APWC)</name>
+    <name>Asia Pacific Wire &amp; Cable Corporation Limited (APWC)</name>
     <title>Basic Industries - Telecommunications Equipment</title>
     <media>http://www.nasdaq.com/symbol/apwc</media>
     <score>42.0462</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>cable</term>
     <term>corporation</term>
     <term>limited</term>
@@ -2354,7 +2354,7 @@
   <element>
     <id>213</id>
     <name>AspenBio Pharma Inc. (APPY)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/appy</media>
     <score>7.78716</score>
     <term>aspenbio</term>
@@ -2588,15 +2588,15 @@
   </element>
   <element>
     <id>235</id>
-    <name>ATP Oil & Gas Corporation (ATPG)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>ATP Oil &amp; Gas Corporation (ATPG)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/atpg</media>
     <score>363.914</score>
     <term>gas</term>
     <term>corporation</term>
     <term>atp</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>atpg</term>
   </element>
   <element>
@@ -2914,25 +2914,25 @@
   </element>
   <element>
     <id>265</id>
-    <name>Baldwin & Lyons Inc. (BWINA)</name>
+    <name>Baldwin &amp; Lyons Inc. (BWINA)</name>
     <title>Finance - Property-Casualty Insurers</title>
     <media>http://www.nasdaq.com/symbol/bwina</media>
     <score>61.3834</score>
     <term>inc.</term>
     <term>baldwin</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>lyons</term>
     <term>bwina</term>
   </element>
   <element>
     <id>266</id>
-    <name>Baldwin & Lyons Inc. (BWINB)</name>
+    <name>Baldwin &amp; Lyons Inc. (BWINB)</name>
     <title>Finance - Property-Casualty Insurers</title>
     <media>http://www.nasdaq.com/symbol/bwinb</media>
     <score>271.362</score>
     <term>inc.</term>
     <term>baldwin</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>lyons</term>
     <term>bwinb</term>
   </element>
@@ -3122,11 +3122,11 @@
   </element>
   <element>
     <id>283</id>
-    <name>BB&T Corporation (MSDXP)</name>
+    <name>BB&amp;T Corporation (MSDXP)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/msdxp</media>
     <score>21.664</score>
-    <term>bb&t</term>
+    <term>bb&amp;t</term>
     <term>corporation</term>
     <term>msdxp</term>
   </element>
@@ -3236,7 +3236,7 @@
   </element>
   <element>
     <id>293</id>
-    <name>Bed Bath & Beyond Inc. (BBBY)</name>
+    <name>Bed Bath &amp; Beyond Inc. (BBBY)</name>
     <title>Consumer Services - Home Furnishings</title>
     <media>http://www.nasdaq.com/symbol/bbby</media>
     <score>14593</score>
@@ -3244,7 +3244,7 @@
     <term>inc.</term>
     <term>bed</term>
     <term>bath</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>bbby</term>
   </element>
   <element>
@@ -3362,7 +3362,7 @@
   <element>
     <id>304</id>
     <name>Bioanalytical Systems Inc. (BASI)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/basi</media>
     <score>9.26342</score>
     <term>bioanalytical</term>
@@ -3693,7 +3693,7 @@
   <element>
     <id>333</id>
     <name>Blue Dolphin Energy Company (BDCO)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/bdco</media>
     <score>10.645</score>
     <term>company</term>
@@ -3974,7 +3974,7 @@
   <element>
     <id>357</id>
     <name>BreitBurn Energy Partners L.P. (BBEP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/bbep</media>
     <score>1136.52</score>
     <term>l.p.</term>
@@ -4039,14 +4039,14 @@
   </element>
   <element>
     <id>363</id>
-    <name>Britton & Koontz Capital Corporation (BKBK)</name>
+    <name>Britton &amp; Koontz Capital Corporation (BKBK)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/bkbk</media>
     <score>18.0149</score>
     <term>capital</term>
     <term>corporation</term>
     <term>britton</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>koontz</term>
     <term>bkbk</term>
   </element>
@@ -4172,7 +4172,7 @@
   <element>
     <id>375</id>
     <name>BSD Medical Corporation (BSDM)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/bsdm</media>
     <score>67.0361</score>
     <term>bsd</term>
@@ -4237,11 +4237,11 @@
   </element>
   <element>
     <id>381</id>
-    <name>C&F Financial Corporation (CFFI)</name>
+    <name>C&amp;F Financial Corporation (CFFI)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/cffi</media>
     <score>92.161</score>
-    <term>c&f</term>
+    <term>c&amp;f</term>
     <term>financial</term>
     <term>corporation</term>
     <term>cffi</term>
@@ -4460,7 +4460,7 @@
   <element>
     <id>401</id>
     <name>Canterbury Park Holding Corporation (CPHC)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/cphc</media>
     <score>59.0688</score>
     <term>corporation</term>
@@ -4691,15 +4691,15 @@
   </element>
   <element>
     <id>422</id>
-    <name>Carrizo Oil & Gas Inc. (CRZO)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>Carrizo Oil &amp; Gas Inc. (CRZO)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/crzo</media>
     <score>1131.88</score>
     <term>gas</term>
     <term>inc.</term>
     <term>carrizo</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>crzo</term>
   </element>
   <element>
@@ -4986,7 +4986,7 @@
   <element>
     <id>448</id>
     <name>Celldex Therapeutics Inc (CLDX)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/cldx</media>
     <score>135.973</score>
     <term>celldex</term>
@@ -5075,7 +5075,7 @@
   </element>
   <element>
     <id>456</id>
-    <name>Central Garden & Pet Company (CENT)</name>
+    <name>Central Garden &amp; Pet Company (CENT)</name>
     <title>Consumer Durables - Consumer Specialties</title>
     <media>http://www.nasdaq.com/symbol/cent</media>
     <score>103.729</score>
@@ -5083,12 +5083,12 @@
     <term>company</term>
     <term>central</term>
     <term>garden</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>cent</term>
   </element>
   <element>
     <id>457</id>
-    <name>Central Garden & Pet Company (CENTA)</name>
+    <name>Central Garden &amp; Pet Company (CENTA)</name>
     <title>Consumer Durables - Consumer Specialties</title>
     <media>http://www.nasdaq.com/symbol/centa</media>
     <score>296.183</score>
@@ -5096,7 +5096,7 @@
     <term>company</term>
     <term>central</term>
     <term>garden</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>centa</term>
   </element>
   <element>
@@ -5260,13 +5260,13 @@
   </element>
   <element>
     <id>473</id>
-    <name>Charles & Colvard Ltd (CTHR)</name>
+    <name>Charles &amp; Colvard Ltd (CTHR)</name>
     <title>Consumer Durables - Consumer Specialties</title>
     <media>http://www.nasdaq.com/symbol/cthr</media>
     <score>52.3501</score>
     <term>ltd</term>
     <term>charles</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>colvard</term>
     <term>cthr</term>
   </element>
@@ -5396,7 +5396,7 @@
   <element>
     <id>485</id>
     <name>China Advanced Construction Materials Group Inc. (CADC)</name>
-    <title>Basic Industries - Engineering & Construction</title>
+    <title>Basic Industries - Engineering &amp; Construction</title>
     <media>http://www.nasdaq.com/symbol/cadc</media>
     <score>44.5525</score>
     <term>materials</term>
@@ -5607,7 +5607,7 @@
   </element>
   <element>
     <id>502</id>
-    <name>China Housing & Land Development Inc. (CHLN)</name>
+    <name>China Housing &amp; Land Development Inc. (CHLN)</name>
     <title>Basic Industries - Homebuilding</title>
     <media>http://www.nasdaq.com/symbol/chln</media>
     <score>37.7579</score>
@@ -5616,7 +5616,7 @@
     <term>inc.</term>
     <term>china</term>
     <term>housing</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>chln</term>
   </element>
   <element>
@@ -5670,7 +5670,7 @@
   <element>
     <id>507</id>
     <name>China Natural Gas Inc. (CHNG)</name>
-    <title>Public Utilities - Oil & Gas Production</title>
+    <title>Public Utilities - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/chng</media>
     <score>41.4159</score>
     <term>inc.</term>
@@ -5935,7 +5935,7 @@
   <element>
     <id>529</id>
     <name>Churchill Downs Incorporated (CHDN)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/chdn</media>
     <score>874.341</score>
     <term>churchill</term>
@@ -6051,13 +6051,13 @@
   </element>
   <element>
     <id>540</id>
-    <name>Citizens & Northern Corp (CZNC)</name>
+    <name>Citizens &amp; Northern Corp (CZNC)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/cznc</media>
     <score>225.403</score>
     <term>corp</term>
     <term>citizens</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>northern</term>
     <term>cznc</term>
   </element>
@@ -6156,7 +6156,7 @@
   <element>
     <id>549</id>
     <name>Clayton Williams Energy Inc. (CWEI)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/cwei</media>
     <score>922.807</score>
     <term>inc.</term>
@@ -6235,7 +6235,7 @@
   <element>
     <id>556</id>
     <name>Cleveland BioLabs Inc. (CBLI)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/cbli</media>
     <score>132.815</score>
     <term>cleveland</term>
@@ -6745,7 +6745,7 @@
   <element>
     <id>602</id>
     <name>Complete Genomics Inc. (GNOM)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/gnom</media>
     <score>129.082</score>
     <term>complete</term>
@@ -6909,7 +6909,7 @@
   <element>
     <id>617</id>
     <name>CONMED Corporation (CNMD)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/cnmd</media>
     <score>747.95</score>
     <term>conmed</term>
@@ -7229,7 +7229,7 @@
   <element>
     <id>646</id>
     <name>Credo Petroleum Corporation (CRED)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/cred</media>
     <score>107.281</score>
     <term>credo</term>
@@ -7286,7 +7286,7 @@
   <element>
     <id>651</id>
     <name>Crimson Exploration Inc. (CXPO)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/cxpo</media>
     <score>132.246</score>
     <term>crimson</term>
@@ -7540,7 +7540,7 @@
   <element>
     <id>674</id>
     <name>Cutera Inc. (CUTR)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/cutr</media>
     <score>104.032</score>
     <term>cutera</term>
@@ -7592,7 +7592,7 @@
   <element>
     <id>679</id>
     <name>Cyberonics Inc. (CYBX)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/cybx</media>
     <score>896.789</score>
     <term>cyberonics</term>
@@ -7655,7 +7655,7 @@
   <element>
     <id>685</id>
     <name>Cynosure Inc. (CYNO)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/cyno</media>
     <score>116.667</score>
     <term>cynosure</term>
@@ -7814,7 +7814,7 @@
   <element>
     <id>700</id>
     <name>Dawson Geophysical Company (DWSN)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/dwsn</media>
     <score>304.257</score>
     <term>dawson</term>
@@ -7923,7 +7923,7 @@
   <element>
     <id>710</id>
     <name>Delta Natural Gas Company Inc. (DGAS)</name>
-    <title>Public Utilities - Oil & Gas Production</title>
+    <title>Public Utilities - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/dgas</media>
     <score>114.954</score>
     <term>company</term>
@@ -8142,7 +8142,7 @@
   <element>
     <id>730</id>
     <name>Digirad Corporation (DRAD)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/drad</media>
     <score>39.3536</score>
     <term>digirad</term>
@@ -8174,7 +8174,7 @@
   <element>
     <id>733</id>
     <name>Digital River Inc. (DRIV)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/driv</media>
     <score>541.731</score>
     <term>digital</term>
@@ -8326,7 +8326,7 @@
   <element>
     <id>747</id>
     <name>Dorchester Minerals L.P. (DMLP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/dmlp</media>
     <score>705.525</score>
     <term>dorchester</term>
@@ -8360,7 +8360,7 @@
   <element>
     <id>750</id>
     <name>Double Eagle Petroleum Company (DBLE)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/dble</media>
     <score>80.7808</score>
     <term>company</term>
@@ -8372,7 +8372,7 @@
   <element>
     <id>751</id>
     <name>Double Eagle Petroleum Company (DBLEP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/dblep</media>
     <score>41.055</score>
     <term>company</term>
@@ -8503,7 +8503,7 @@
   <element>
     <id>763</id>
     <name>Dyax Corp. (DYAX)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/dyax</media>
     <score>129.36</score>
     <term>dyax</term>
@@ -8558,7 +8558,7 @@
   <element>
     <id>768</id>
     <name>Dynatronics Corporation (DYNT)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/dynt</media>
     <score>9.46554</score>
     <term>dynatronics</term>
@@ -8635,7 +8635,7 @@
   <element>
     <id>775</id>
     <name>Eagle Rock Energy Partners L.P. (EROC)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/eroc</media>
     <score>1461.45</score>
     <term>partners</term>
@@ -8648,7 +8648,7 @@
   <element>
     <id>776</id>
     <name>Eagle Rock Energy Partners L.P. (EROCW)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/erocw</media>
     <score>28.5971</score>
     <term>partners</term>
@@ -8772,7 +8772,7 @@
   <element>
     <id>787</id>
     <name>Echo Therapeutics Inc. (ECTE)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/ecte</media>
     <score>76.2281</score>
     <term>echo</term>
@@ -8826,7 +8826,7 @@
   <element>
     <id>792</id>
     <name>EDAP TMS S.A. (EDAP)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/edap</media>
     <score>27.6618</score>
     <term>edap</term>
@@ -9215,7 +9215,7 @@
   <element>
     <id>827</id>
     <name>Energy XXI (Bermuda) Limited (EXXI)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/exxi</media>
     <score>2509.68</score>
     <term>limited</term>
@@ -9268,7 +9268,7 @@
   <element>
     <id>832</id>
     <name>EnteroMedics Inc. (ETRM)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/etrm</media>
     <score>67.9875</score>
     <term>enteromedics</term>
@@ -9366,7 +9366,7 @@
   <element>
     <id>841</id>
     <name>ePlus Inc. (PLUS)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/plus</media>
     <score>213.159</score>
     <term>eplus</term>
@@ -9450,7 +9450,7 @@
   <element>
     <id>849</id>
     <name>Escalon Medical Corp. (ESMC)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/esmc</media>
     <score>7.526</score>
     <term>escalon</term>
@@ -9517,7 +9517,7 @@
   <element>
     <id>855</id>
     <name>EV Energy Partners L.P. (EVEP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/evep</media>
     <score>2461.55</score>
     <term>l.p.</term>
@@ -9540,7 +9540,7 @@
   <element>
     <id>857</id>
     <name>EXACT Sciences Corporation (EXAS)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/exas</media>
     <score>467.372</score>
     <term>exact</term>
@@ -9582,7 +9582,7 @@
   <element>
     <id>861</id>
     <name>Exelixis Inc. (EXEL)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/exel</media>
     <score>623.79</score>
     <term>exelixis</term>
@@ -9822,12 +9822,12 @@
   </element>
   <element>
     <id>883</id>
-    <name>FBR & Co (FBRC)</name>
+    <name>FBR &amp; Co (FBRC)</name>
     <title>Finance - Investment Bankers/Brokers/Service</title>
     <media>http://www.nasdaq.com/symbol/fbrc</media>
     <score>115.242</score>
     <term>fbr</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>co</term>
     <term>fbrc</term>
   </element>
@@ -10335,7 +10335,7 @@
   </element>
   <element>
     <id>927</id>
-    <name>First M & F Corporation (FMFC)</name>
+    <name>First M &amp; F Corporation (FMFC)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/fmfc</media>
     <score>26.8922</score>
@@ -10343,7 +10343,7 @@
     <term>corporation</term>
     <term>first</term>
     <term>m</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>fmfc</term>
   </element>
   <element>
@@ -10852,7 +10852,7 @@
   <element>
     <id>966</id>
     <name>Fonar Corporation (FONR)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/fonr</media>
     <score>9.84356</score>
     <term>fonar</term>
@@ -11198,7 +11198,7 @@
   <element>
     <id>997</id>
     <name>FX Energy Inc. (FXEN)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/fxen</media>
     <score>248.052</score>
     <term>fx</term>
@@ -11208,11 +11208,11 @@
   </element>
   <element>
     <id>998</id>
-    <name>G&K Services Inc. (GKSR)</name>
+    <name>G&amp;K Services Inc. (GKSR)</name>
     <title>Consumer Services - Other Consumer Services</title>
     <media>http://www.nasdaq.com/symbol/gksr</media>
     <score>612.117</score>
-    <term>g&k</term>
+    <term>g&amp;k</term>
     <term>services</term>
     <term>inc.</term>
     <term>gksr</term>
@@ -11436,7 +11436,7 @@
   <element>
     <id>1019</id>
     <name>GeoMet Inc. (GMET)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/gmet</media>
     <score>38.8097</score>
     <term>geomet</term>
@@ -11446,7 +11446,7 @@
   <element>
     <id>1020</id>
     <name>GeoMet Inc. (GMETP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/gmetp</media>
     <score>48.656</score>
     <term>geomet</term>
@@ -11456,7 +11456,7 @@
   <element>
     <id>1021</id>
     <name>GeoResources Inc. (GEOI)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/geoi</media>
     <score>727.467</score>
     <term>georesources</term>
@@ -11640,13 +11640,13 @@
   </element>
   <element>
     <id>1038</id>
-    <name>Gleacher & Company Inc. (GLCH)</name>
+    <name>Gleacher &amp; Company Inc. (GLCH)</name>
     <title>Finance - Investment Bankers/Brokers/Service</title>
     <media>http://www.nasdaq.com/symbol/glch</media>
     <score>215.299</score>
     <term>inc.</term>
     <term>gleacher</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>company</term>
     <term>glch</term>
   </element>
@@ -12017,11 +12017,11 @@
   </element>
   <element>
     <id>1069</id>
-    <name>Great Lakes Dredge & Dock Corporation (GLDD)</name>
+    <name>Great Lakes Dredge &amp; Dock Corporation (GLDD)</name>
     <title>Basic Industries - Military/Government/Technical</title>
     <media>http://www.nasdaq.com/symbol/gldd</media>
     <score>353.76</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>dock</term>
     <term>corporation</term>
     <term>great</term>
@@ -12115,7 +12115,7 @@
   </element>
   <element>
     <id>1077</id>
-    <name>Griffin Land & Nurseries Inc. (GRIF)</name>
+    <name>Griffin Land &amp; Nurseries Inc. (GRIF)</name>
     <title>Consumer Non-Durables - Farming/Seeds/Milling</title>
     <media>http://www.nasdaq.com/symbol/grif</media>
     <score>134.459</score>
@@ -12123,7 +12123,7 @@
     <term>inc.</term>
     <term>griffin</term>
     <term>land</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>grif</term>
   </element>
   <element>
@@ -12222,7 +12222,7 @@
   <element>
     <id>1086</id>
     <name>GTSI Corp. (GTSI)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/gtsi</media>
     <score>39.8586</score>
     <term>gtsi</term>
@@ -12309,7 +12309,7 @@
   <element>
     <id>1094</id>
     <name>Gulfport Energy Corporation (GPOR)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/gpor</media>
     <score>1723.86</score>
     <term>gulfport</term>
@@ -12332,12 +12332,12 @@
   </element>
   <element>
     <id>1096</id>
-    <name>H&E Equipment Services Inc. (HEES)</name>
+    <name>H&amp;E Equipment Services Inc. (HEES)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/hees</media>
     <score>484.201</score>
     <term>inc.</term>
-    <term>h&e</term>
+    <term>h&amp;e</term>
     <term>equipment</term>
     <term>services</term>
     <term>hees</term>
@@ -12412,13 +12412,13 @@
   </element>
   <element>
     <id>1103</id>
-    <name>Handy & Harman Ltd. (HNH)</name>
+    <name>Handy &amp; Harman Ltd. (HNH)</name>
     <title>Capital Goods - Industrial Specialties</title>
     <media>http://www.nasdaq.com/symbol/hnh</media>
     <score>126.334</score>
     <term>ltd.</term>
     <term>handy</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>harman</term>
     <term>hnh</term>
   </element>
@@ -12500,14 +12500,14 @@
   </element>
   <element>
     <id>1111</id>
-    <name>Harris & Harris Group Inc. (TINY)</name>
+    <name>Harris &amp; Harris Group Inc. (TINY)</name>
     <title>Finance - Finance/Investors Services</title>
     <media>http://www.nasdaq.com/symbol/tiny</media>
     <score>108.504</score>
     <term>group</term>
     <term>inc.</term>
     <term>harris</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>harris</term>
     <term>tiny</term>
   </element>
@@ -12698,14 +12698,14 @@
   </element>
   <element>
     <id>1129</id>
-    <name>Heidrick & Struggles International Inc. (HSII)</name>
+    <name>Heidrick &amp; Struggles International Inc. (HSII)</name>
     <title>Technology - Diversified Commercial Services</title>
     <media>http://www.nasdaq.com/symbol/hsii</media>
     <score>389.957</score>
     <term>international</term>
     <term>inc.</term>
     <term>heidrick</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>struggles</term>
     <term>hsii</term>
   </element>
@@ -12723,7 +12723,7 @@
   </element>
   <element>
     <id>1131</id>
-    <name>Helios & Matheson Information Technology Inc (HMNY)</name>
+    <name>Helios &amp; Matheson Information Technology Inc (HMNY)</name>
     <title>Consumer Services - Other Consumer Services</title>
     <media>http://www.nasdaq.com/symbol/hmny</media>
     <score>4.6833</score>
@@ -12731,7 +12731,7 @@
     <term>technology</term>
     <term>inc</term>
     <term>helios</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>matheson</term>
     <term>hmny</term>
   </element>
@@ -12749,7 +12749,7 @@
   <element>
     <id>1133</id>
     <name>Hercules Offshore Inc. (HERO)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/hero</media>
     <score>584.666</score>
     <term>hercules</term>
@@ -13063,7 +13063,7 @@
   </element>
   <element>
     <id>1161</id>
-    <name>Home Inns & Hotels Management Inc. (HMIN)</name>
+    <name>Home Inns &amp; Hotels Management Inc. (HMIN)</name>
     <title>Consumer Services - Hotels/Resorts</title>
     <media>http://www.nasdaq.com/symbol/hmin</media>
     <score>1062.91</score>
@@ -13072,7 +13072,7 @@
     <term>inc.</term>
     <term>home</term>
     <term>inns</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>hmin</term>
   </element>
   <element>
@@ -13210,7 +13210,7 @@
   </element>
   <element>
     <id>1174</id>
-    <name>Houston Wire & Cable Company (HWCC)</name>
+    <name>Houston Wire &amp; Cable Company (HWCC)</name>
     <title>Consumer Non-Durables - Telecommunications Equipment</title>
     <media>http://www.nasdaq.com/symbol/hwcc</media>
     <score>245.718</score>
@@ -13218,7 +13218,7 @@
     <term>company</term>
     <term>houston</term>
     <term>wire</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>hwcc</term>
   </element>
   <element>
@@ -13465,7 +13465,7 @@
   <element>
     <id>1197</id>
     <name>ICON plc (ICLR)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/iclr</media>
     <score>1073.86</score>
     <term>icon</term>
@@ -13531,7 +13531,7 @@
   <element>
     <id>1203</id>
     <name>IDEXX Laboratories Inc. (IDXX)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/idxx</media>
     <score>4484.06</score>
     <term>idexx</term>
@@ -13636,7 +13636,7 @@
   <element>
     <id>1213</id>
     <name>ImmuCell Corporation (ICCC)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/iccc</media>
     <score>14.945</score>
     <term>immucell</term>
@@ -13656,7 +13656,7 @@
   <element>
     <id>1215</id>
     <name>Immunomedics Inc. (IMMU)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/immu</media>
     <score>249.859</score>
     <term>immunomedics</term>
@@ -13688,7 +13688,7 @@
   <element>
     <id>1218</id>
     <name>Imris Inc (IMRS)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/imrs</media>
     <score>112.732</score>
     <term>imris</term>
@@ -13708,7 +13708,7 @@
   <element>
     <id>1220</id>
     <name>Incyte Corporation (INCY)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/incy</media>
     <score>2055.63</score>
     <term>incyte</term>
@@ -14045,7 +14045,7 @@
   <element>
     <id>1251</id>
     <name>Integrated Electrical Services Inc. (IESC)</name>
-    <title>Capital Goods - Engineering & Construction</title>
+    <title>Capital Goods - Engineering &amp; Construction</title>
     <media>http://www.nasdaq.com/symbol/iesc</media>
     <score>29.2785</score>
     <term>inc.</term>
@@ -14188,7 +14188,7 @@
   <element>
     <id>1264</id>
     <name>International Speedway Corporation (ISCA)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/isca</media>
     <score>685.954</score>
     <term>international</term>
@@ -14430,7 +14430,7 @@
   <element>
     <id>1286</id>
     <name>IRIDEX Corporation (IRIX)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/irix</media>
     <score>33.57</score>
     <term>iridex</term>
@@ -14759,7 +14759,7 @@
   </element>
   <element>
     <id>1310</id>
-    <name>iShares S&P Emerging Markets Infrastructure Index Fund (EMIF)</name>
+    <name>iShares S&amp;P Emerging Markets Infrastructure Index Fund (EMIF)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/emif</media>
     <score>32.67</score>
@@ -14768,13 +14768,13 @@
     <term>index</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>emerging</term>
     <term>emif</term>
   </element>
   <element>
     <id>1311</id>
-    <name>iShares S&P Global Clean Energy Index Fund (ICLN)</name>
+    <name>iShares S&amp;P Global Clean Energy Index Fund (ICLN)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/icln</media>
     <score>33.06</score>
@@ -14783,13 +14783,13 @@
     <term>index</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>global</term>
     <term>icln</term>
   </element>
   <element>
     <id>1312</id>
-    <name>iShares S&P Global Nuclear Index Fund (NUCL)</name>
+    <name>iShares S&amp;P Global Nuclear Index Fund (NUCL)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/nucl</media>
     <score>12.2322</score>
@@ -14797,28 +14797,28 @@
     <term>index</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>global</term>
     <term>nucl</term>
   </element>
   <element>
     <id>1313</id>
-    <name>iShares S&P Global Timber &Forestry Index Fund (WOOD)</name>
+    <name>iShares S&amp;P Global Timber &amp;Forestry Index Fund (WOOD)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/wood</media>
     <score>46.2972</score>
     <term>timber</term>
-    <term>&forestry</term>
+    <term>&amp;forestry</term>
     <term>index</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>global</term>
     <term>wood</term>
   </element>
   <element>
     <id>1314</id>
-    <name>iShares S&P India Nifty 50 Index Fund (INDY)</name>
+    <name>iShares S&amp;P India Nifty 50 Index Fund (INDY)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/indy</media>
     <score>21.6825</score>
@@ -14827,13 +14827,13 @@
     <term>index</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>india</term>
     <term>indy</term>
   </element>
   <element>
     <id>1315</id>
-    <name>iShares S&P/Citigroup 1-3 Year International Treasury Bond Fund (ISHG)</name>
+    <name>iShares S&amp;P/Citigroup 1-3 Year International Treasury Bond Fund (ISHG)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/ishg</media>
     <score>116.568</score>
@@ -14843,13 +14843,13 @@
     <term>bond</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p/citigroup</term>
+    <term>s&amp;p/citigroup</term>
     <term>1-3</term>
     <term>ishg</term>
   </element>
   <element>
     <id>1316</id>
-    <name>iShares S&P/Citigroup International Treasury Bond Fund (IGOV)</name>
+    <name>iShares S&amp;P/Citigroup International Treasury Bond Fund (IGOV)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/igov</media>
     <score>125.736</score>
@@ -14857,7 +14857,7 @@
     <term>bond</term>
     <term>fund</term>
     <term>ishares</term>
-    <term>s&p/citigroup</term>
+    <term>s&amp;p/citigroup</term>
     <term>international</term>
     <term>igov</term>
   </element>
@@ -14888,7 +14888,7 @@
   <element>
     <id>1319</id>
     <name>Isramco Inc. (ISRL)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/isrl</media>
     <score>233.531</score>
     <term>isramco</term>
@@ -14932,7 +14932,7 @@
   <element>
     <id>1323</id>
     <name>Ivanhoe Energy Inc. (IVAN)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/ivan</media>
     <score>402.643</score>
     <term>ivanhoe</term>
@@ -14961,7 +14961,7 @@
   </element>
   <element>
     <id>1326</id>
-    <name>J & J Snack Foods Corp. (JJSF)</name>
+    <name>J &amp; J Snack Foods Corp. (JJSF)</name>
     <title>Consumer Non-Durables - Specialty Foods</title>
     <media>http://www.nasdaq.com/symbol/jjsf</media>
     <score>974.97</score>
@@ -14969,7 +14969,7 @@
     <term>foods</term>
     <term>corp.</term>
     <term>j</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>j</term>
     <term>jjsf</term>
   </element>
@@ -15045,7 +15045,7 @@
   </element>
   <element>
     <id>1333</id>
-    <name>Jack Henry & Associates Inc. (JKHY)</name>
+    <name>Jack Henry &amp; Associates Inc. (JKHY)</name>
     <title>Technology - EDP Services</title>
     <media>http://www.nasdaq.com/symbol/jkhy</media>
     <score>2836.33</score>
@@ -15053,7 +15053,7 @@
     <term>inc.</term>
     <term>jack</term>
     <term>henry</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>jkhy</term>
   </element>
   <element>
@@ -15258,11 +15258,11 @@
   </element>
   <element>
     <id>1352</id>
-    <name>John B. Sanfilippo & Son Inc. (JBSS)</name>
+    <name>John B. Sanfilippo &amp; Son Inc. (JBSS)</name>
     <title>Consumer Non-Durables - Specialty Foods</title>
     <media>http://www.nasdaq.com/symbol/jbss</media>
     <score>60.9059</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>son</term>
     <term>inc.</term>
     <term>john</term>
@@ -15679,7 +15679,7 @@
   </element>
   <element>
     <id>1390</id>
-    <name>Kratos Defense & Security Solutions Inc. (KTOS)</name>
+    <name>Kratos Defense &amp; Security Solutions Inc. (KTOS)</name>
     <title>Consumer Services - Telecommunications Equipment</title>
     <media>http://www.nasdaq.com/symbol/ktos</media>
     <score>208.108</score>
@@ -15688,7 +15688,7 @@
     <term>inc.</term>
     <term>kratos</term>
     <term>defense</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>ktos</term>
   </element>
   <element>
@@ -15749,11 +15749,11 @@
   </element>
   <element>
     <id>1396</id>
-    <name>L&L Energy Inc. (LLEN)</name>
+    <name>L&amp;L Energy Inc. (LLEN)</name>
     <title>Energy - Coal Mining</title>
     <media>http://www.nasdaq.com/symbol/llen</media>
     <score>80.6611</score>
-    <term>l&l</term>
+    <term>l&amp;l</term>
     <term>energy</term>
     <term>inc.</term>
     <term>llen</term>
@@ -15828,7 +15828,7 @@
   <element>
     <id>1403</id>
     <name>Lakes Entertainment Inc. (LACO)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/laco</media>
     <score>49.3792</score>
     <term>lakes</term>
@@ -15957,7 +15957,7 @@
   <element>
     <id>1415</id>
     <name>Layne Christensen Company (LAYN)</name>
-    <title>Basic Industries - Engineering & Construction</title>
+    <title>Basic Industries - Engineering &amp; Construction</title>
     <media>http://www.nasdaq.com/symbol/layn</media>
     <score>470.383</score>
     <term>layne</term>
@@ -16045,7 +16045,7 @@
   <element>
     <id>1423</id>
     <name>Legacy Reserves LP (LGCY)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/lgcy</media>
     <score>1344.9</score>
     <term>legacy</term>
@@ -16352,7 +16352,7 @@
   <element>
     <id>1451</id>
     <name>Linn Energy LLC (LINE)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/line</media>
     <score>6674.26</score>
     <term>linn</term>
@@ -16686,7 +16686,7 @@
   <element>
     <id>1482</id>
     <name>Luna Innovations Incorporated (LUNA)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/luna</media>
     <score>21.7961</score>
     <term>luna</term>
@@ -16756,7 +16756,7 @@
   <element>
     <id>1488</id>
     <name>Magellan Petroleum Corporation (MPET)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/mpet</media>
     <score>55.3481</score>
     <term>magellan</term>
@@ -17007,7 +17007,7 @@
   <element>
     <id>1511</id>
     <name>Marine Petroleum Trust (MARPS)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/marps</media>
     <score>52.8998</score>
     <term>marine</term>
@@ -17098,7 +17098,7 @@
   <element>
     <id>1519</id>
     <name>Masimo Corporation (MASI)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/masi</media>
     <score>1134.66</score>
     <term>masimo</term>
@@ -17119,7 +17119,7 @@
   <element>
     <id>1521</id>
     <name>Matrix Service Company (MTRX)</name>
-    <title>Basic Industries - Engineering & Construction</title>
+    <title>Basic Industries - Engineering &amp; Construction</title>
     <media>http://www.nasdaq.com/symbol/mtrx</media>
     <score>250.748</score>
     <term>matrix</term>
@@ -17207,7 +17207,7 @@
   <element>
     <id>1529</id>
     <name>Maxygen Inc. (MAXY)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/maxy</media>
     <score>152.88</score>
     <term>maxygen</term>
@@ -17446,7 +17446,7 @@
   <element>
     <id>1551</id>
     <name>Memorial Production Partners LP (MEMP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/memp</media>
     <score>298.413</score>
     <term>lp</term>
@@ -17556,7 +17556,7 @@
   <element>
     <id>1561</id>
     <name>Meridian Bioscience Inc. (VIVO)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/vivo</media>
     <score>773.606</score>
     <term>meridian</term>
@@ -17590,7 +17590,7 @@
   </element>
   <element>
     <id>1564</id>
-    <name>Merrill Lynch & Co. Inc. (PGEB)</name>
+    <name>Merrill Lynch &amp; Co. Inc. (PGEB)</name>
     <title>Finance - Investment Bankers/Brokers/Service</title>
     <media>http://www.nasdaq.com/symbol/pgeb</media>
     <score>16.388</score>
@@ -17598,7 +17598,7 @@
     <term>inc.</term>
     <term>merrill</term>
     <term>lynch</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>pgeb</term>
   </element>
   <element>
@@ -17869,7 +17869,7 @@
   <element>
     <id>1590</id>
     <name>Mid-Con Energy Partners LP (MCEP)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/mcep</media>
     <score>340.276</score>
     <term>lp</term>
@@ -18111,7 +18111,7 @@
   </element>
   <element>
     <id>1612</id>
-    <name>Monarch Casino & Resort Inc. (MCRI)</name>
+    <name>Monarch Casino &amp; Resort Inc. (MCRI)</name>
     <title>Consumer Services - Hotels/Resorts</title>
     <media>http://www.nasdaq.com/symbol/mcri</media>
     <score>168.642</score>
@@ -18119,7 +18119,7 @@
     <term>inc.</term>
     <term>monarch</term>
     <term>casino</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>mcri</term>
   </element>
   <element>
@@ -18338,7 +18338,7 @@
   <element>
     <id>1632</id>
     <name>Multimedia Games Holding Company Inc. (MGAM)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/mgam</media>
     <score>213.827</score>
     <term>company</term>
@@ -18405,7 +18405,7 @@
   <element>
     <id>1638</id>
     <name>Myriad Genetics Inc. (MYGN)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/mygn</media>
     <score>1796.23</score>
     <term>myriad</term>
@@ -18608,7 +18608,7 @@
   <element>
     <id>1656</id>
     <name>National Research Corporation (NRCI)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/nrci</media>
     <score>258.471</score>
     <term>national</term>
@@ -18680,7 +18680,7 @@
   <element>
     <id>1662</id>
     <name>Natus Medical Incorporated (BABY)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/baby</media>
     <score>300.67</score>
     <term>natus</term>
@@ -18727,7 +18727,7 @@
   <element>
     <id>1666</id>
     <name>Navarre Corporation (NAVR)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/navr</media>
     <score>53.2094</score>
     <term>navarre</term>
@@ -18736,12 +18736,12 @@
   </element>
   <element>
     <id>1667</id>
-    <name>NB&T FINANCIAL GROUP INC (NBTF)</name>
+    <name>NB&amp;T FINANCIAL GROUP INC (NBTF)</name>
     <title>Finance - Commercial Banks</title>
     <media>http://www.nasdaq.com/symbol/nbtf</media>
     <score>68.48</score>
     <term>inc</term>
-    <term>nb&t</term>
+    <term>nb&amp;t</term>
     <term>financial</term>
     <term>group</term>
     <term>nbtf</term>
@@ -18780,7 +18780,7 @@
   <element>
     <id>1671</id>
     <name>Neogen Corporation (NEOG)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/neog</media>
     <score>715.478</score>
     <term>neogen</term>
@@ -18789,7 +18789,7 @@
   </element>
   <element>
     <id>1672</id>
-    <name>Neptune Technologies & Bioresources Inc (NEPT)</name>
+    <name>Neptune Technologies &amp; Bioresources Inc (NEPT)</name>
     <title>Consumer Durables - Major Pharmaceuticals</title>
     <media>http://www.nasdaq.com/symbol/nept</media>
     <score>110.477</score>
@@ -18797,7 +18797,7 @@
     <term>inc</term>
     <term>neptune</term>
     <term>technologies</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>nept</term>
   </element>
   <element>
@@ -19619,7 +19619,7 @@
   <element>
     <id>1747</id>
     <name>NxStage Medical Inc. (NXTM)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/nxtm</media>
     <score>974.298</score>
     <term>nxstage</term>
@@ -19630,7 +19630,7 @@
   <element>
     <id>1748</id>
     <name>Nymox Pharmaceutical Corporation (NYMX)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/nymx</media>
     <score>263.524</score>
     <term>nymox</term>
@@ -19724,7 +19724,7 @@
   <element>
     <id>1756</id>
     <name>Ocean Rig UDW Inc. (ORIG)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/orig</media>
     <score>1552.71</score>
     <term>inc.</term>
@@ -20021,7 +20021,7 @@
   <element>
     <id>1782</id>
     <name>OncoGenex Pharmaceuticals Inc. (OGXI)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/ogxi</media>
     <score>120.485</score>
     <term>oncogenex</term>
@@ -20043,7 +20043,7 @@
   <element>
     <id>1784</id>
     <name>Oncothyreon Inc . (ONTY)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/onty</media>
     <score>305.61</score>
     <term>oncothyreon</term>
@@ -20490,7 +20490,7 @@
   <element>
     <id>1825</id>
     <name>Oxygen Biotherapeutics Inc. (OXBT)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/oxbt</media>
     <score>39.7242</score>
     <term>oxygen</term>
@@ -20511,14 +20511,14 @@
   </element>
   <element>
     <id>1827</id>
-    <name>P & F Industries Inc. (PFIN)</name>
+    <name>P &amp; F Industries Inc. (PFIN)</name>
     <title>Technology - Industrial Machinery/Components</title>
     <media>http://www.nasdaq.com/symbol/pfin</media>
     <score>12.6525</score>
     <term>industries</term>
     <term>inc.</term>
     <term>p</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>f</term>
     <term>pfin</term>
   </element>
@@ -20696,7 +20696,7 @@
   <element>
     <id>1843</id>
     <name>Palomar Medical Technologies Inc. (PMTI)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/pmti</media>
     <score>183.18</score>
     <term>inc.</term>
@@ -20765,7 +20765,7 @@
   <element>
     <id>1849</id>
     <name>PAREXEL International Corporation (PRXL)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/prxl</media>
     <score>1259.03</score>
     <term>parexel</term>
@@ -20899,7 +20899,7 @@
   <element>
     <id>1861</id>
     <name>Patterson-UTI Energy Inc. (PTEN)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/pten</media>
     <score>3296.29</score>
     <term>patterson-uti</term>
@@ -21016,7 +21016,7 @@
   </element>
   <element>
     <id>1872</id>
-    <name>Peets Coffee & Tea Inc. (PEET)</name>
+    <name>Peets Coffee &amp; Tea Inc. (PEET)</name>
     <title>Consumer Non-Durables - Packaged Foods</title>
     <media>http://www.nasdaq.com/symbol/peet</media>
     <score>771.026</score>
@@ -21024,7 +21024,7 @@
     <term>inc.</term>
     <term>peets</term>
     <term>coffee</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>peet</term>
   </element>
   <element>
@@ -21344,7 +21344,7 @@
   <element>
     <id>1901</id>
     <name>Petroleum Development Corporation (PETD)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/petd</media>
     <score>757.205</score>
     <term>petroleum</term>
@@ -21435,7 +21435,7 @@
   <element>
     <id>1910</id>
     <name>PhotoMedex Inc. (PHMD)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/phmd</media>
     <score>261.235</score>
     <term>photomedex</term>
@@ -21744,7 +21744,7 @@
   <element>
     <id>1939</id>
     <name>PostRock Energy Corporation (PSTR)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/pstr</media>
     <score>28.7941</score>
     <term>postrock</term>
@@ -21807,14 +21807,14 @@
   </element>
   <element>
     <id>1945</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio (PSCD)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Consumer Discretionary Portfolio (PSCD)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/pscd</media>
     <score>43.968</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>consumer</term>
     <term>discretionary</term>
@@ -21826,14 +21826,14 @@
   </element>
   <element>
     <id>1946</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio (PSCC)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Consumer Staples Portfolio (PSCC)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/pscc</media>
     <score>18.672</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>consumer</term>
     <term>staples</term>
@@ -21845,14 +21845,14 @@
   </element>
   <element>
     <id>1947</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio (PSCE)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Energy Portfolio (PSCE)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/psce</media>
     <score>55.968</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>energy</term>
     <term>portfolio</term>
@@ -21863,14 +21863,14 @@
   </element>
   <element>
     <id>1948</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio (PSCF)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Financials Portfolio (PSCF)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/pscf</media>
     <score>61.6725</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>financials</term>
     <term>portfolio</term>
@@ -21881,14 +21881,14 @@
   </element>
   <element>
     <id>1949</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio (PSCH)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Health Care Portfolio (PSCH)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/psch</media>
     <score>104.346</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>health</term>
     <term>care</term>
@@ -21900,14 +21900,14 @@
   </element>
   <element>
     <id>1950</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio (PSCI)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Industrials Portfolio (PSCI)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/psci</media>
     <score>23.7354</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>industrials</term>
     <term>portfolio</term>
@@ -21918,14 +21918,14 @@
   </element>
   <element>
     <id>1951</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio (PSCT)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Information Technology Portfolio (PSCT)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/psct</media>
     <score>92.495</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>information</term>
     <term>technology</term>
@@ -21937,14 +21937,14 @@
   </element>
   <element>
     <id>1952</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio (PSCM)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Materials Portfolio (PSCM)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/pscm</media>
     <score>3.996</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>materials</term>
     <term>portfolio</term>
@@ -21955,14 +21955,14 @@
   </element>
   <element>
     <id>1953</id>
-    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Utilities Portfolio (PSCU)</name>
+    <name>PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Utilities Portfolio (PSCU)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/pscu</media>
     <score>45.6</score>
     <term>trust</term>
     <term>ii</term>
     <term>powershares</term>
-    <term>s&p</term>
+    <term>s&amp;p</term>
     <term>smallcap</term>
     <term>utilities</term>
     <term>portfolio</term>
@@ -22012,11 +22012,11 @@
   </element>
   <element>
     <id>1957</id>
-    <name>PowerShares Global Gold & Precious Metals Portfolio (PSAU)</name>
+    <name>PowerShares Global Gold &amp; Precious Metals Portfolio (PSAU)</name>
     <title>n/a - n/a</title>
     <media>http://www.nasdaq.com/symbol/psau</media>
     <score>41.276</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>precious</term>
     <term>metals</term>
     <term>portfolio</term>
@@ -22145,7 +22145,7 @@
   <element>
     <id>1968</id>
     <name>Premier Exhibitions Inc. (PRXI)</name>
-    <title>Consumer Services - Services-Misc. Amusement & Recreation</title>
+    <title>Consumer Services - Services-Misc. Amusement &amp; Recreation</title>
     <media>http://www.nasdaq.com/symbol/prxi</media>
     <score>109.549</score>
     <term>premier</term>
@@ -22275,7 +22275,7 @@
   <element>
     <id>1980</id>
     <name>PrimeEnergy Corporation (PNRG)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/pnrg</media>
     <score>59.7092</score>
     <term>primeenergy</term>
@@ -22775,7 +22775,7 @@
   <element>
     <id>2025</id>
     <name>Quidel Corporation (QDEL)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/qdel</media>
     <score>507.047</score>
     <term>quidel</term>
@@ -22805,7 +22805,7 @@
   </element>
   <element>
     <id>2028</id>
-    <name>R.R. Donnelley & Sons Company (RRD)</name>
+    <name>R.R. Donnelley &amp; Sons Company (RRD)</name>
     <title>Miscellaneous - Publishing</title>
     <media>http://www.nasdaq.com/symbol/rrd</media>
     <score>2730.61</score>
@@ -22813,7 +22813,7 @@
     <term>company</term>
     <term>r.r.</term>
     <term>donnelley</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>rrd</term>
   </element>
   <element>
@@ -22914,7 +22914,7 @@
   <element>
     <id>2038</id>
     <name>RAM Energy Resources Inc. (RAM)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/ram</media>
     <score>248.251</score>
     <term>inc.</term>
@@ -23110,7 +23110,7 @@
   <element>
     <id>2056</id>
     <name>Recovery Energy Inc. (RECV)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/recv</media>
     <score>46.6867</score>
     <term>recovery</term>
@@ -23351,7 +23351,7 @@
   <element>
     <id>2078</id>
     <name>Response Genetics Inc. (RGDX)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/rgdx</media>
     <score>28.9148</score>
     <term>response</term>
@@ -23418,7 +23418,7 @@
   <element>
     <id>2084</id>
     <name>Rex Energy Corporation (REXX)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/rexx</media>
     <score>643.814</score>
     <term>rex</term>
@@ -23463,7 +23463,7 @@
   <element>
     <id>2088</id>
     <name>RGC Resources Inc. (RGCO)</name>
-    <title>Public Utilities - Oil & Gas Production</title>
+    <title>Public Utilities - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/rgco</media>
     <score>83.1876</score>
     <term>rgc</term>
@@ -23605,7 +23605,7 @@
   <element>
     <id>2101</id>
     <name>Rockwell Medical Technologies Inc. (RMTI)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/rmti</media>
     <score>189.097</score>
     <term>inc.</term>
@@ -23640,7 +23640,7 @@
   </element>
   <element>
     <id>2104</id>
-    <name>Rodman & Renshaw Capital Group Inc. (RODM)</name>
+    <name>Rodman &amp; Renshaw Capital Group Inc. (RODM)</name>
     <title>Finance - Investment Bankers/Brokers/Service</title>
     <media>http://www.nasdaq.com/symbol/rodm</media>
     <score>17.5404</score>
@@ -23648,7 +23648,7 @@
     <term>group</term>
     <term>inc.</term>
     <term>rodman</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>renshaw</term>
     <term>rodm</term>
   </element>
@@ -23688,7 +23688,7 @@
   <element>
     <id>2108</id>
     <name>Rosetta Resources Inc. (ROSE)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/rose</media>
     <score>2426.21</score>
     <term>rosetta</term>
@@ -23744,7 +23744,7 @@
   <element>
     <id>2113</id>
     <name>Royale Energy Inc. (ROYL)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/royl</media>
     <score>51.6576</score>
     <term>royale</term>
@@ -23963,44 +23963,44 @@
   </element>
   <element>
     <id>2130</id>
-    <name>S&T Bancorp Inc. (STBA)</name>
+    <name>S&amp;T Bancorp Inc. (STBA)</name>
     <title>Finance - Major Banks</title>
     <media>http://www.nasdaq.com/symbol/stba</media>
     <score>572.54</score>
-    <term>s&t</term>
+    <term>s&amp;t</term>
     <term>bancorp</term>
     <term>inc.</term>
     <term>stba</term>
   </element>
   <element>
     <id>2131</id>
-    <name>S&W Seed Company (SANW)</name>
+    <name>S&amp;W Seed Company (SANW)</name>
     <title>Consumer Non-Durables - Farming/Seeds/Milling</title>
     <media>http://www.nasdaq.com/symbol/sanw</media>
     <score>26.042</score>
-    <term>s&w</term>
+    <term>s&amp;w</term>
     <term>seed</term>
     <term>company</term>
     <term>sanw</term>
   </element>
   <element>
     <id>2132</id>
-    <name>S&W Seed Company (SANWW)</name>
+    <name>S&amp;W Seed Company (SANWW)</name>
     <title>Consumer Non-Durables - Farming/Seeds/Milling</title>
     <media>http://www.nasdaq.com/symbol/sanww</media>
     <score>0.763</score>
-    <term>s&w</term>
+    <term>s&amp;w</term>
     <term>seed</term>
     <term>company</term>
     <term>sanww</term>
   </element>
   <element>
     <id>2133</id>
-    <name>S&W Seed Company (SANWZ)</name>
+    <name>S&amp;W Seed Company (SANWZ)</name>
     <title>Consumer Non-Durables - Farming/Seeds/Milling</title>
     <media>http://www.nasdaq.com/symbol/sanwz</media>
     <score>0.30814</score>
-    <term>s&w</term>
+    <term>s&amp;w</term>
     <term>seed</term>
     <term>company</term>
     <term>sanwz</term>
@@ -24246,7 +24246,7 @@
   <element>
     <id>2156</id>
     <name>ScanSource Inc. (SCSC)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/scsc</media>
     <score>962.999</score>
     <term>scansource</term>
@@ -24520,7 +24520,7 @@
   <element>
     <id>2181</id>
     <name>Senomyx Inc. (SNMX)</name>
-    <title>Health Care - Biotechnology: Commercial Physical & Biological Resarch</title>
+    <title>Health Care - Biotechnology: Commercial Physical &amp; Biological Resarch</title>
     <media>http://www.nasdaq.com/symbol/snmx</media>
     <score>143.469</score>
     <term>senomyx</term>
@@ -24540,7 +24540,7 @@
   <element>
     <id>2183</id>
     <name>SeraCare Life Sciences Inc (SRLS)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/srls</media>
     <score>61.3477</score>
     <term>inc</term>
@@ -25253,14 +25253,14 @@
   </element>
   <element>
     <id>2248</id>
-    <name>Smith & Wesson Holding Corporation (SWHC)</name>
+    <name>Smith &amp; Wesson Holding Corporation (SWHC)</name>
     <title>Capital Goods - Ordnance And Accessories</title>
     <media>http://www.nasdaq.com/symbol/swhc</media>
     <score>307.23</score>
     <term>holding</term>
     <term>corporation</term>
     <term>smith</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>wesson</term>
     <term>swhc</term>
   </element>
@@ -25354,7 +25354,7 @@
   <element>
     <id>2257</id>
     <name>Solta Medical Inc (SLTM)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/sltm</media>
     <score>189.815</score>
     <term>solta</term>
@@ -25755,12 +25755,12 @@
   </element>
   <element>
     <id>2293</id>
-    <name>SS&C Technologies Holdings Inc. (SSNC)</name>
+    <name>SS&amp;C Technologies Holdings Inc. (SSNC)</name>
     <title>Technology - Computer Software: Prepackaged Software</title>
     <media>http://www.nasdaq.com/symbol/ssnc</media>
     <score>1369.75</score>
     <term>inc.</term>
-    <term>ss&c</term>
+    <term>ss&amp;c</term>
     <term>technologies</term>
     <term>holdings</term>
     <term>ssnc</term>
@@ -25986,7 +25986,7 @@
   <element>
     <id>2314</id>
     <name>Stereotaxis Inc. (STXS)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/stxs</media>
     <score>41.6239</score>
     <term>stereotaxis</term>
@@ -26560,7 +26560,7 @@
   <element>
     <id>2367</id>
     <name>Synergetics USA Inc. (SURG)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/surg</media>
     <score>163.087</score>
     <term>synergetics</term>
@@ -26604,7 +26604,7 @@
   <element>
     <id>2371</id>
     <name>Syneron Medical Ltd. (ELOS)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/elos</media>
     <score>397.094</score>
     <term>syneron</term>
@@ -26670,7 +26670,7 @@
   <element>
     <id>2377</id>
     <name>Syntroleum Corporation (SYNM)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/synm</media>
     <score>97.0861</score>
     <term>syntroleum</term>
@@ -26892,7 +26892,7 @@
   <element>
     <id>2397</id>
     <name>Tech Data Corporation (TECD)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/tecd</media>
     <score>2168.41</score>
     <term>tech</term>
@@ -27238,7 +27238,7 @@
   <element>
     <id>2429</id>
     <name>TGC Industries Inc. (TGE)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/tge</media>
     <score>137.887</score>
     <term>tgc</term>
@@ -27643,7 +27643,7 @@
   <element>
     <id>2462</id>
     <name>The Spectranetics Corporation (SPNC)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/spnc</media>
     <score>246.516</score>
     <term>the</term>
@@ -27764,7 +27764,7 @@
   <element>
     <id>2473</id>
     <name>Thoratec Corporation (THOR)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/thor</media>
     <score>1737.91</score>
     <term>thoratec</term>
@@ -27952,7 +27952,7 @@
   <element>
     <id>2490</id>
     <name>Toreador Resources Corporation (TRGL)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/trgl</media>
     <score>125.364</score>
     <term>toreador</term>
@@ -28158,7 +28158,7 @@
   <element>
     <id>2509</id>
     <name>Transglobe Energy Corp (TGA)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/tga</media>
     <score>663.067</score>
     <term>transglobe</term>
@@ -28262,7 +28262,7 @@
   <element>
     <id>2519</id>
     <name>Trinity Biotech plc (TRIB)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/trib</media>
     <score>212.526</score>
     <term>trinity</term>
@@ -28463,7 +28463,7 @@
   <element>
     <id>2537</id>
     <name>U.S. Energy Corp. (USEG)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/useg</media>
     <score>79.0946</score>
     <term>u.s.</term>
@@ -28486,7 +28486,7 @@
   <element>
     <id>2539</id>
     <name>U.S. Home Systems Inc. (USHS)</name>
-    <title>Basic Industries - Engineering & Construction</title>
+    <title>Basic Industries - Engineering &amp; Construction</title>
     <media>http://www.nasdaq.com/symbol/ushs</media>
     <score>52.5117</score>
     <term>inc.</term>
@@ -28531,11 +28531,11 @@
   </element>
   <element>
     <id>2543</id>
-    <name>Ulta Salon Cosmetics & Fragrance Inc. (ULTA)</name>
+    <name>Ulta Salon Cosmetics &amp; Fragrance Inc. (ULTA)</name>
     <title>Consumer Services - Other Specialty Stores</title>
     <media>http://www.nasdaq.com/symbol/ulta</media>
     <score>4290.07</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>fragrance</term>
     <term>inc.</term>
     <term>ulta</term>
@@ -28643,7 +28643,7 @@
   <element>
     <id>2553</id>
     <name>Union Drilling Inc. (UDRL)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/udrl</media>
     <score>145.83</score>
     <term>union</term>
@@ -28756,7 +28756,7 @@
   </element>
   <element>
     <id>2563</id>
-    <name>United Fire & Casualty Company (UFCS)</name>
+    <name>United Fire &amp; Casualty Company (UFCS)</name>
     <title>Finance - Property-Casualty Insurers</title>
     <media>http://www.nasdaq.com/symbol/ufcs</media>
     <score>508.785</score>
@@ -28764,7 +28764,7 @@
     <term>company</term>
     <term>united</term>
     <term>fire</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>ufcs</term>
   </element>
   <element>
@@ -28815,11 +28815,11 @@
   </element>
   <element>
     <id>2568</id>
-    <name>United States Lime & Minerals Inc. (USLM)</name>
-    <title>Basic Industries - Mining & Quarrying of Nonmetallic Minerals (No Fuels)</title>
+    <name>United States Lime &amp; Minerals Inc. (USLM)</name>
+    <title>Basic Industries - Mining &amp; Quarrying of Nonmetallic Minerals (No Fuels)</title>
     <media>http://www.nasdaq.com/symbol/uslm</media>
     <score>382.283</score>
-    <term>&</term>
+    <term>&amp;</term>
     <term>minerals</term>
     <term>inc.</term>
     <term>united</term>
@@ -28960,7 +28960,7 @@
   </element>
   <element>
     <id>2580</id>
-    <name>Universal Stainless & Alloy Products Inc. (USAP)</name>
+    <name>Universal Stainless &amp; Alloy Products Inc. (USAP)</name>
     <title>Basic Industries - Steel/Iron Ore</title>
     <media>http://www.nasdaq.com/symbol/usap</media>
     <score>256.784</score>
@@ -28969,7 +28969,7 @@
     <term>inc.</term>
     <term>universal</term>
     <term>stainless</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>usap</term>
   </element>
   <element>
@@ -29021,7 +29021,7 @@
   <element>
     <id>2585</id>
     <name>Urologix Inc. (ULGX)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/ulgx</media>
     <score>16.1733</score>
     <term>urologix</term>
@@ -29584,7 +29584,7 @@
   <element>
     <id>2631</id>
     <name>Vermillion Inc. (VRML)</name>
-    <title>Health Care - Biotechnology: In Vitro & In Vivo Diagnostic Substances</title>
+    <title>Health Care - Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</title>
     <media>http://www.nasdaq.com/symbol/vrml</media>
     <score>22.284</score>
     <term>vermillion</term>
@@ -29858,7 +29858,7 @@
   <element>
     <id>2656</id>
     <name>Vision-Sciences Inc. (VSCI)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/vsci</media>
     <score>88.8774</score>
     <term>vision-sciences</term>
@@ -29952,7 +29952,7 @@
   <element>
     <id>2665</id>
     <name>Volcano Corporation (VOLC)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/volc</media>
     <score>1189.9</score>
     <term>volcano</term>
@@ -30028,7 +30028,7 @@
   <element>
     <id>2672</id>
     <name>Warren Resources Inc. (WRES)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/wres</media>
     <score>220.279</score>
     <term>warren</term>
@@ -30130,7 +30130,7 @@
   <element>
     <id>2681</id>
     <name>Wayside Technology Group Inc. (WSTG)</name>
-    <title>Technology - Retail: Computer Software & Peripheral Equipment</title>
+    <title>Technology - Retail: Computer Software &amp; Peripheral Equipment</title>
     <media>http://www.nasdaq.com/symbol/wstg</media>
     <score>56.256</score>
     <term>inc.</term>
@@ -30604,7 +30604,7 @@
   <element>
     <id>2724</id>
     <name>World Heart Corporation (WHRT)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/whrt</media>
     <score>6.13419</score>
     <term>world</term>
@@ -30927,7 +30927,7 @@
   <element>
     <id>2754</id>
     <name>ZELTIQ Aesthetics Inc. (ZLTQ)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/zltq</media>
     <score>378.335</score>
     <term>zeltiq</term>
@@ -30968,54 +30968,54 @@
   </element>
   <element>
     <id>2758</id>
-    <name>Zion Oil & Gas Inc (ZN)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>Zion Oil &amp; Gas Inc (ZN)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/zn</media>
     <score>69.6893</score>
     <term>gas</term>
     <term>inc</term>
     <term>zion</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>zn</term>
   </element>
   <element>
     <id>2759</id>
-    <name>Zion Oil & Gas Inc (ZNWAL)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>Zion Oil &amp; Gas Inc (ZNWAL)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/znwal</media>
     <score>2</score>
     <term>gas</term>
     <term>inc</term>
     <term>zion</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>znwal</term>
   </element>
   <element>
     <id>2760</id>
-    <name>Zion Oil & Gas Inc (ZNWAW)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>Zion Oil &amp; Gas Inc (ZNWAW)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/znwaw</media>
     <score>0.39585</score>
     <term>gas</term>
     <term>inc</term>
     <term>zion</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>znwaw</term>
   </element>
   <element>
     <id>2761</id>
-    <name>Zion Oil & Gas Inc (ZNWAZ)</name>
-    <title>Energy - Oil & Gas Production</title>
+    <name>Zion Oil &amp; Gas Inc (ZNWAZ)</name>
+    <title>Energy - Oil &amp; Gas Production</title>
     <media>http://www.nasdaq.com/symbol/znwaz</media>
     <score>1.74864</score>
     <term>gas</term>
     <term>inc</term>
     <term>zion</term>
     <term>oil</term>
-    <term>&</term>
+    <term>&amp;</term>
     <term>znwaz</term>
   </element>
   <element>
@@ -31092,7 +31092,7 @@
   <element>
     <id>2769</id>
     <name>Zoll Medical Corporation (ZOLL)</name>
-    <title>Health Care - Biotechnology: Electromedical & Electrotherapeutic Apparatus</title>
+    <title>Health Care - Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</title>
     <media>http://www.nasdaq.com/symbol/zoll</media>
     <score>1466.35</score>
     <term>zoll</term>
