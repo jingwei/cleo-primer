@@ -1,0 +1,81 @@
+GET - Search
+
+ curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/search?query=goo
+
+GET - Retrieve an element
+
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/1
+
+GET - Retrieve all elements
+
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements
+
+DELETE - Remove all elements
+
+  curl -v -X DELETE http://localhost:8080/cleo-primer/elements
+
+DELETE - Remove an element
+
+  curl -v -X DELETE http://localhost:8080/cleo-primer/elements/1
+
+PUT - Update an element
+
+  curl -v -X PUT -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements/1063 -d '
+  <element>
+    <id>1063</id>
+    <name>Google Inc. (GOOG)</name>
+    <title>Technology - Computer Software: Programming Data Processing</title>
+    <media>http://www.nasdaq.com/symbol/goog</media>
+    <score>159350</score>
+    <term>google</term>
+    <term>inc.</term>
+    <term>goog</term>
+  </element>
+'
+
+POST - Add a new element
+
+  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements/_ -d '
+  <element>
+    <id>1063</id>
+    <name>Google Inc. (GOOG)</name>
+    <title>Technology - Computer Software: Programming Data Processing</title>
+    <media>http://www.nasdaq.com/symbol/goog</media>
+    <score>159350</score>
+    <term>google</term>
+    <term>inc.</term>
+    <term>goog</term>
+  </element>
+'
+
+POST - Add a list of new elements:
+
+  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements -d '
+<element-list>
+  <element>
+    <id>1063</id>
+    <name>Google Inc. (GOOG)</name>
+    <title>Technology - Computer Software: Programming Data Processing</title>
+    <media>http://www.nasdaq.com/symbol/goog</media>
+    <score>159350</score>
+    <term>google</term>
+    <term>inc.</term>
+    <term>goog</term>
+  </element>
+  <element>
+    <id>1253</id>
+    <name>Intel Corporation (INTC)</name>
+    <title>Technology - Semiconductors</title>
+    <media>http://www.nasdaq.com/symbol/intc</media>
+    <score>129668</score>
+    <term>intel</term>
+    <term>corporation</term>
+    <term>intc</term>
+  </element>
+</element-list>
+'
+
+POST - Flush elements
+
+  curl -v -X POST http://localhost:8080/cleo-primer/elements/flush
+
