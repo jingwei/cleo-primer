@@ -7,8 +7,10 @@
     <groupId>com.sna-projects.cleo</groupId>
     <artifactId>cleo-primer</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
-    
+    <version>1.0-SNAPSHOT</version>
+    <name>cleo-primer</name>
+    <url>https://github.com/jingwei/cleo-primer</url>
+
     <build>
         <plugins>
             <plugin>
@@ -31,7 +33,6 @@
                     <stopPort>9966</stopPort>
                 </configuration>
             </plugin>
-
         </plugins>
     </build>
     

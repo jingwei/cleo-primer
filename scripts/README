@@ -1,22 +1,22 @@
 GET - Search
 
-  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/search?query=goo
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/rest/elements/search?query=goo
 
 GET - Retrieve an element
 
-  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/1063
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/rest/elements/1063
 
 GET - Retrieve all elements
 
-  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/rest/elements
 
 DELETE - Remove an element
 
-  curl -v -X DELETE http://localhost:8080/cleo-primer/elements/1
+  curl -v -X DELETE http://localhost:8080/cleo-primer/rest/elements/1
 
 PUT - Update an element
 
-  curl -v -X PUT -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements/1063 -d '
+  curl -v -X PUT -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements/1063 -d '
   <element>
     <id>1063</id>
     <name>Google Inc. (GOOG)</name>
@@ -31,7 +31,7 @@ PUT - Update an element
 
 POST - Add a new element
 
-  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements/_ -d '
+  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements/_ -d '
   <element>
     <id>1063</id>
     <name>Google Inc. (GOOG)</name>
@@ -46,7 +46,7 @@ POST - Add a new element
 
 POST - Add a list of new elements:
 
-  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/elements -d '
+  curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements -d '
 <element-list>
   <element>
     <id>1063</id>
@@ -73,5 +73,5 @@ POST - Add a list of new elements:
 
 POST - Flush elements
 
-  curl -v -X POST http://localhost:8080/cleo-primer/elements/flush
+  curl -v -X POST http://localhost:8080/cleo-primer/rest/elements/flush
 

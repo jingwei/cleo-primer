@@ -47,7 +47,7 @@ of your data sets, you may need to specify a different JVM heap size.
 
 ### Search URL
 
-  http://localhost:8080/cleo-primer/elements/search?query=goo
+  http://localhost:8080/cleo-primer/rest/elements/search?query=goo
 
 ### Eclipse:
 
