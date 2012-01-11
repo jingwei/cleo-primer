@@ -14,7 +14,7 @@ Apache Public License (APL) 2.0
 
 ### Artifacts:
 
-1. cleo-primer.jar <-- core library
+cleo-primer.jar
 
 ### Maven:
 
@@ -40,11 +40,11 @@ of your data sets, you may need to specify a different JVM heap size.
 
 ### Scripts:
 
-1. Post an element list
+#### Post a list of new elements
 
   ./scripts/post-element-list.sh dat/nasdaq-company-list.xml
 
-2. Post a single element
+#### Post a new element
 
   ./scripts/post-element.sh dat/nasdaq-google.xml dat/nasdaq-intel.xml
 
