@@ -1,6 +1,6 @@
 GET - Search
 
- curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/search?query=goo
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/search?query=goo
 
 GET - Retrieve an element
 

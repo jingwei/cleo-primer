@@ -40,17 +40,17 @@ of your data sets, you may need to specify a different JVM heap size.
 
 ### Scripts:
 
-#### Post a list of new elements
+## Post a list of new elements
 
   ./scripts/post-element-list.sh dat/nasdaq-company-list.xml
 
-#### Post a new element
+## Post a new element
 
   ./scripts/post-element.sh dat/nasdaq-google.xml dat/nasdaq-intel.xml
 
 ### Search URL
 
-  http://localhost:8080/cleo-primer/elements/search?query=in
+  http://localhost:8080/cleo-primer/elements/search?query=goo
 
 ### Eclipse:
 
