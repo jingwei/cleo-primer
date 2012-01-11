@@ -29,10 +29,7 @@ version: 1.0
 You can launch the cleo-primer web application using the next command from the
 main folder:
 
-  $ MAVEN_OPTS="-Xms1g -Xmx1g" mvn jetty:run \
-    -Dcleo.instance.name=Company \
-    -Dcleo.instance.type=cleo.primer.GenericTypeaheadInstance \
-    -Dcleo.instance.conf=src/main/resources/config/generic-typeahead
+  MAVEN_OPTS="-Xms1g -Xmx1g" mvn jetty:run -Dcleo.instance.name=Company -Dcleo.instance.type=cleo.primer.GenericTypeaheadInstance -Dcleo.instance.conf=src/main/resources/config/generic-typeahead
 
 You can customize you web application by choosing different values for parameters
 cleo.instance.name, cleo.instance.type and cleo.instance.conf. Depending on the size
