@@ -35,11 +35,22 @@ main folder:
     -Dcleo.instance.conf=src/main/resources/config/generic-typeahead
 
 You can customize you web application by choosing different values for parameters
-cleo.instance.name, cleo.instance.type and cleo.instance.conf.
+cleo.instance.name, cleo.instance.type and cleo.instance.conf. Depending on the size
+of your data sets, you may need to specify a different JVM heap size.
 
 ### Scripts:
 
+1. Post an element list
 
+  ./scripts/post-element-list.sh dat/nasdaq-company-list.xml
+
+2. Post a single element
+
+  ./scripts/post-element.sh dat/nasdaq-google.xml dat/nasdaq-intel.xml
+
+### Search URL
+
+  http://localhost:8080/cleo-primer/elements/search?query=in
 
 ### Eclipse:
 
