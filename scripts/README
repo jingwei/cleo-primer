@@ -4,15 +4,11 @@ GET - Search
 
 GET - Retrieve an element
 
-  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/1
+  curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements/1063
 
 GET - Retrieve all elements
 
   curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/elements
-
-DELETE - Remove all elements
-
-  curl -v -X DELETE http://localhost:8080/cleo-primer/elements
 
 DELETE - Remove an element
 
