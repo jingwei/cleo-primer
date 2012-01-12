@@ -45,7 +45,7 @@
     a, h1, h2 {
         color: #377BA8;
         text-align: center;
-	text-decoration:none;
+        text-decoration: none;
     }
 
     h1 span {
@@ -70,6 +70,7 @@
         width: 360px;
         -moz-border-radius-bottomleft: 5px;
         -moz-border-radius-bottomright: 5px;
+        text-align:left;
     }
     
     .yui-skin-sam .yui-ac {
@@ -83,7 +84,7 @@
     }
     
     .yui-skin-sam .yui-ac-content li.yui-ac-highlight p.item-mainline {
-        color: white;	
+        color: white;
     }
 
     .item-pic {
@@ -99,6 +100,10 @@
         padding-left: 10px;
     }
     
+    .yui-skin-sam .yui-ac-content li{
+        cursor: pointer;
+    }
+    
     .yui-skin-sam .yui-ac-content li p {
         font-size: 10pt;
         height: auto;
@@ -106,22 +111,22 @@
         overflow: hidden;
         padding-left: 10px;
     }
-
+    
     .item-mainline {
-	    font-size: 16pt;
-	    font-weight: bold; 
-	    color: #377BA8;;
+        font-size: 16pt;
+        font-weight: bold; 
+        color: #377BA8;;
     }
- 
+    
     .item-icon {
-	    width:auto;
-	    height:auto;
+        width:auto;
+        height:auto;
     }
     
     #memberId {
-	  width:100px;
-	  height:18px;
-	  font-size:9pt;
+      width:100px;
+      height:18px;
+      font-size:9pt;
     }
     
     #searchForm {
@@ -149,28 +154,29 @@
     </div>
 
     <script type="text/javascript"> 
-      YAHOO.example.BasicRemote = function() {
-	// Instantiate the XHRDataSource
-	var dataSourceURL = "http://" + window.location.hostname + ":" + window.location.port + "/cleo-primer/rest/elements/search?";
-	var dataSource = new YAHOO.util.XHRDataSource(dataSourceURL);
+    YAHOO.example.BasicRemote = function() {
+    // Instantiate the XHRDataSource
+    var dataSourceURL = "http://" + window.location.hostname + ":" + window.location.port + "/cleo-primer/rest/elements/search?";
+    var dataSource = new YAHOO.util.XHRDataSource(dataSourceURL);
 
-	dataSource.connMgr = YAHOO.util.Connect;
-	dataSource.connMgr.initHeader('Accept', "application/json", true);
+    dataSource.connMgr = YAHOO.util.Connect;
+    dataSource.connMgr.initHeader('Accept', "application/json", true);
 
-	dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
+    dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
         dataSource.responseSchema = {
           resultsList: "element",
           fields: ["id", "name", "title", "media", "score"]  
         };
 
         // Instantiate the AutoComplete
-        var autoComplete = new YAHOO.widget.AutoComplete("cleoInput", "cleoContainer", dataSource);
+        var autoComplete = new YAHOO.widget.AutoComplete("cleoInput", "cleoContainer", dataSource); 
         autoComplete.queryMatchContains = true; 
         autoComplete.queryQuestionMark = true; 
         autoComplete.useShadow = true; 
         autoComplete.animVert = false;
         autoComplete.minQueryLength = 1;
         autoComplete.queryDelay = 0.00001;
+        autoComplete.suppressInputUpdate = true;
 
         autoComplete.generateRequest = function(sQuery)
         {
@@ -178,22 +184,22 @@
         }
 
         autoComplete.formatResult = function (oResultData, sQuery, sResultMatch) {
-	      var id = oResultData[0];
-	      var name = oResultData[1];
-	      var title = oResultData[2];
-	      var media = oResultData[3] == undefined ? "" : oResultData[3];
-	      var score = oResultData[4];
-
-	      var markup = ["<table border='0'>",
-                      "<tr>",
-                      "<td>",
-	                    "<p class='item-mainline'>", name, "</p>",
-	                    "<p class='item-subline'>", title, "</p>",
-                      "</td>",
-                      "</tr>",
-                      "</table>"];
-	      return (markup.join(""));
+          var id = oResultData[0];
+          var name = oResultData[1];
+          var title = oResultData[2];
+          var media = oResultData[3] == undefined ? "" : oResultData[3];
+          var score = oResultData[4];
+          
+          var markup = ["<p class='item-mainline'>", name, "</p>",
+                        "<p class='item-subline'>", title, "</p>"];
+                      
+          return (markup.join(""));
       };
+
+      autoComplete.itemSelectEvent.subscribe(function(type, args){
+        var url = args[2][3];
+        window.open(url);
+      });
 
       return {
           oDS: dataSource,
@@ -203,4 +209,3 @@
     </script> 
   </body>
 </html>
-
