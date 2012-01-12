@@ -1,0 +1,204 @@
+<html>
+  <head>
+    <!--begin custom header content for this example-->
+
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.2r1/build/fonts/fonts-min.css" /> 
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.2r1/build/autocomplete/assets/skins/sam/autocomplete.css" /> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/animation/animation-min.js"></script> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/connection/connection-min.js"></script> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/json/json-min.js"></script> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/datasource/datasource-min.js"></script> 
+    <script type="text/javascript" src="http://yui.yahooapis.com/2.8.2r1/build/autocomplete/autocomplete-min.js"></script> 
+
+    <style>
+    body {
+        background: none repeat scroll 0 0 #EEEEEE;
+        font-family: sans-serif;
+    }
+    
+    .page {
+        background: none repeat scroll 0 0 white;
+        border: 5px solid #CCCCCC;
+        margin: 2em auto;
+        padding: 0.8em;
+        width: 50em;
+        height: 100%;
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: center;
+        font-size: 20pt;
+    }
+    
+    h1 {
+        border-bottom: 2px solid #EEEEEE;
+        padding-bottom: 10px;
+    }
+    
+    h1, h2 {
+        font-family: 'Georgia', serif;
+        margin: 10px;
+    }
+    
+    a, h1, h2 {
+        color: #377BA8;
+        text-align: center;
+    }
+
+    h1 span {
+        color:red;
+    }
+    
+    ul li.item {
+        border-left: 1px solid #DFDFDF;
+        margin-left: 105px;
+        border: medium none;
+        min-height: 25px;
+        padding: 7px 5px 4px 42px;
+        position: relative;
+        width: 225px;
+    }
+    
+    .yui-skin-sam .yui-ac-input {
+        position: relative;
+    }
+    
+    .yui-skin-sam .yui-ac-content {
+        width: 360px;
+        -moz-border-radius-bottomleft: 5px;
+        -moz-border-radius-bottomright: 5px;
+    }
+    
+    .yui-skin-sam .yui-ac {
+        font-family: sans-serif;
+        font-size: 13pt;
+        color: #444;
+    }
+    
+    .yui-skin-sam .yui-ac-content li {
+        border-bottom: 1px solid #aaaaaa;
+    }
+    
+    .yui-skin-sam .yui-ac-content li.yui-ac-highlight p.item-mainline {
+        color: white;	
+    }
+
+    .item-pic {
+        height: 50px;
+        left: 6px;
+        top: 5px;
+        width: 50px;
+    }
+    
+    .yui-skin-sam .yui-ac-content li h4 {
+        margin: 0 1px 0 0;
+        display: inline;
+        padding-left: 10px;
+    }
+    
+    .yui-skin-sam .yui-ac-content li p {
+        font-size: 12pt;
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding-left: 10px;
+    }
+
+    .item-mainline {
+	    font-size: 16pt;
+	    font-weight: bold; 
+	    color: #377BA8;;
+    }
+ 
+    .item-icon {
+	    width:auto;
+	    height:auto;
+    }
+    
+    #memberId {
+	  width:100px;
+	  height:18px;
+	  font-size:9pt;
+    }
+    
+    #searchForm {
+        width: 50%;
+        padding: 10px;
+        margin: auto
+    }
+    
+    #cleoInput {
+        width: 360px;
+    }
+    </style>
+  </head>
+
+  <body class="yui-skin-sam">
+    <div class="page"> 
+      <h1>Cleo Typeahead!</h1>
+      <input id="memberId" type="hidden" value="1">
+      <div id="searchForm"> 
+        <div id="cleoAutoComplete"> 
+          <input id="cleoInput" type="text"> 
+          <div id="cleoContainer"></div> 
+        </div> 
+      </div>
+    </div>
+
+    <script type="text/javascript"> 
+      YAHOO.example.BasicRemote = function() {
+	// Instantiate the XHRDataSource
+        var dataSource = new YAHOO.util.XHRDataSource("http://localhost:8080/cleo-primer/rest/elements/search?");
+
+	dataSource.connMgr = YAHOO.util.Connect;
+	dataSource.connMgr.initHeader('Accept', "application/json", true);
+
+	dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
+        dataSource.responseSchema = {
+          resultsList: "element",
+          fields: ["id", "name", "title", "media", "score"]  
+        };
+
+        // Instantiate the AutoComplete
+        var autoComplete = new YAHOO.widget.AutoComplete("cleoInput", "cleoContainer", dataSource);
+        autoComplete.queryMatchContains = true; 
+        autoComplete.queryQuestionMark = true; 
+        autoComplete.useShadow = true; 
+        autoComplete.animVert = false;
+        autoComplete.minQueryLength = 1;
+        autoComplete.queryDelay = 0.00001;
+
+        autoComplete.generateRequest = function(sQuery)
+        {
+          return "uid=" + document.getElementById("memberId").value + "&query=" + sQuery;
+        }
+
+        autoComplete.formatResult = function (oResultData, sQuery, sResultMatch) {
+	      var id = oResultData[0];
+	      var name = oResultData[1];
+	      var title = oResultData[2];
+	      var media = oResultData[3] == undefined ? "" : oResultData[3];
+	      var score = oResultData[4];
+
+	      var markup = ["<table border='0'>",
+                      "<tr>",
+                      "<td>",
+	                    "<p class='item-mainline'>", name, "</p>",
+	                    "<p class='item-subline'>", title, "</p>",
+                      "</td>",
+                      "</tr>",
+                      "</table>"];
+	      return (markup.join(""));
+      };
+
+      return {
+          oDS: dataSource,
+          oAC: autoComplete
+        };
+      }();
+    </script> 
+  </body>
+</html>
+
