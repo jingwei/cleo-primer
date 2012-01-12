@@ -100,7 +100,7 @@
         padding-left: 10px;
     }
     
-    .yui-skin-sam .yui-ac-content li{
+    .yui-skin-sam .yui-ac-content li {
         cursor: pointer;
     }
     
@@ -177,6 +177,7 @@
         autoComplete.minQueryLength = 1;
         autoComplete.queryDelay = 0.00001;
         autoComplete.suppressInputUpdate = true;
+        autoComplete.allowBrowserAutocomplete = false;
 
         autoComplete.generateRequest = function(sQuery)
         {
