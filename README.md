@@ -54,7 +54,7 @@ Visit the URL below to try out cleo-primer.
 
     http://localhost:8080/cleo-primer/rest/elements/search?query=goo
 
-### Eclipse:
+### Eclipse
 
 Set up Eclipse by executing the command below:
 
