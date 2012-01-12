@@ -51,9 +51,14 @@ public class ElementDTO implements Element, Cloneable {
     private String title;
     
     /**
-     * Element media (e.g. picture URL, web URL)
+     * Element media (e.g. picture URL)
      */
     private String media;
+    
+    /**
+     * Element web URL
+     */
+    private String url;
     
     /**
      * Element score.
@@ -111,6 +116,14 @@ public class ElementDTO implements Element, Cloneable {
     
     public String getMedia() {
         return media;
+    }
+    
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
     }
     
     @Override

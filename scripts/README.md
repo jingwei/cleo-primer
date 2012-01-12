@@ -29,7 +29,7 @@
       <id>1063</id>
       <name>Google Inc. (GOOG)</name>
       <title>Technology - Computer Software: Programming Data Processing</title>
-      <media>http://www.nasdaq.com/symbol/goog</media>
+      <url>http://www.nasdaq.com/symbol/goog</url>
       <score>159350</score>
       <term>google</term>
       <term>inc.</term>
@@ -44,7 +44,7 @@
       <id>1063</id>
       <name>Google Inc. (GOOG)</name>
       <title>Technology - Computer Software: Programming Data Processing</title>
-      <media>http://www.nasdaq.com/symbol/goog</media>
+      <url>http://www.nasdaq.com/symbol/goog</url>
       <score>159350</score>
       <term>google</term>
       <term>inc.</term>
@@ -60,7 +60,7 @@
         <id>1063</id>
         <name>Google Inc. (GOOG)</name>
         <title>Technology - Computer Software: Programming Data Processing</title>
-        <media>http://www.nasdaq.com/symbol/goog</media>
+        <url>http://www.nasdaq.com/symbol/goog</url>
         <score>159350</score>
         <term>google</term>
         <term>inc.</term>
@@ -70,7 +70,7 @@
         <id>1253</id>
         <name>Intel Corporation (INTC)</name>
         <title>Technology - Semiconductors</title>
-        <media>http://www.nasdaq.com/symbol/intc</media>
+        <url>http://www.nasdaq.com/symbol/intc</url>
         <score>129668</score>
         <term>intel</term>
         <term>corporation</term>

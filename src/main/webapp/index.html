@@ -165,7 +165,7 @@
     dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
         dataSource.responseSchema = {
           resultsList: "element",
-          fields: ["id", "name", "title", "media", "score"]  
+          fields: ["id", "name", "title", "url", "score"]  
         };
 
         // Instantiate the AutoComplete
@@ -188,18 +188,18 @@
           var id = oResultData[0];
           var name = oResultData[1];
           var title = oResultData[2];
-          var media = oResultData[3] == undefined ? "" : oResultData[3];
-          var score = oResultData[4];
+          var webUrl = oResultData[3] == undefined ? "" : oResultData[3];
+          var score = oResultData[4] == undefined ? 0 : oResultData[4];
           
           var markup = ["<p class='item-mainline'>", name, "</p>",
                         "<p class='item-subline'>", title, "</p>"];
-                      
+          
           return (markup.join(""));
       };
 
-      autoComplete.itemSelectEvent.subscribe(function(type, args){
-        var url = args[2][3];
-        window.open(url);
+      autoComplete.itemSelectEvent.subscribe(function(type, args) {
+        var url = args[2][3] == undefined ? "" : args[2][3];
+        if(url != "") window.open(url);
       });
 
       return {
