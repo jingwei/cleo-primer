@@ -23,34 +23,40 @@ artifactId: cleo-primer
 
 version: 1.0
 
+### Build the war
+
+    mvn clean package
+
 ### Launch WebApp
 
-You can launch the cleo-primer web application using the next command from the
+Launch the cleo-primer web application using the next command from the
 main folder:
 
     MAVEN_OPTS="-Xms1g -Xmx1g" mvn jetty:run -Dcleo.instance.name=Company -Dcleo.instance.type=cleo.primer.GenericTypeaheadInstance -Dcleo.instance.conf=src/main/resources/config/generic-typeahead
 
 You can customize you web application by choosing different values for parameters
-*cleo.instance.name*, *cleo.instance.type* and *cleo.instance.conf*. Depending on the size
+<code>cleo.instance.name</code>, <code>cleo.instance.type</code> and <code>cleo.instance.conf</code>. Depending on the size
 of your data sets, you may need to specify a different JVM heap size.
 
-### Scripts:
-
-- Post a list of new elements
+### Post a list of new elements
 
     ./scripts/post-element-list.sh dat/nasdaq-company-list.xml
 
-- Post a new element
+### Post a new element
 
     ./scripts/post-element.sh dat/nasdaq-google.xml dat/nasdaq-intel.xml
 
-### Search URL
+### Search
+
+Visit the URL below to try out cleo-primer.
+ 
+    http://localhost:8080/cleo-primer
 
     http://localhost:8080/cleo-primer/rest/elements/search?query=goo
 
 ### Eclipse:
 
-Set up Eclipse for cleo-primer by executing the command below:
+Set up Eclipse by executing the command below:
 
     mvn eclipse:eclipse
 
@@ -58,3 +64,6 @@ Inside Eclipse, select Preferences > Java > Build Path > Classpath Variables. De
 
 For more information, check out http://maven.apache.org/guides/mini/guide-ide-eclipse.html
 
+### Contribute
+
+For help please see the [discussion group](http://groups.google.com/group/cleo-typeahead).  Bugs and feature requests can be filed [here](https://github.com/linkedin/cleo/issues).
