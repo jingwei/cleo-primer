@@ -19,7 +19,7 @@
     
     .page {
         background: none repeat scroll 0 0 white;
-        border: 5px solid #CCCCCC;
+        border: 4px solid #CCCCCC;
         margin: 2em auto;
         padding: 0.8em;
         width: 50em;
@@ -45,6 +45,7 @@
     a, h1, h2 {
         color: #377BA8;
         text-align: center;
+	text-decoration:none;
     }
 
     h1 span {
@@ -73,7 +74,7 @@
     
     .yui-skin-sam .yui-ac {
         font-family: sans-serif;
-        font-size: 13pt;
+        font-size: 12pt;
         color: #444;
     }
     
@@ -99,7 +100,7 @@
     }
     
     .yui-skin-sam .yui-ac-content li p {
-        font-size: 12pt;
+        font-size: 10pt;
         height: auto;
         margin: 0;
         overflow: hidden;
@@ -137,7 +138,7 @@
 
   <body class="yui-skin-sam">
     <div class="page"> 
-      <h1>Cleo Typeahead!</h1>
+      <h1><a href="http://sna-projects.com/cleo">Cleo!</a></h1>
       <input id="memberId" type="hidden" value="1">
       <div id="searchForm"> 
         <div id="cleoAutoComplete"> 
@@ -150,7 +151,8 @@
     <script type="text/javascript"> 
       YAHOO.example.BasicRemote = function() {
 	// Instantiate the XHRDataSource
-        var dataSource = new YAHOO.util.XHRDataSource("http://localhost:8080/cleo-primer/rest/elements/search?");
+	var dataSourceURL = "http://" + window.location.hostname + ":" + window.location.port + "/cleo-primer/rest/elements/search?";
+	var dataSource = new YAHOO.util.XHRDataSource(dataSourceURL);
 
 	dataSource.connMgr = YAHOO.util.Connect;
 	dataSource.connMgr.initHeader('Accept', "application/json", true);
