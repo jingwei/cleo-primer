@@ -3,19 +3,19 @@
 The cleo-primer package provides a basic RESTful implementation of partial, out-of-order and real-time typeahead services.
 It is built on [Cleo](http://sna-projects.com/cleo/), an open source package from LinkedIn.
 
-### Homepage:
+### Homepage
 
 Find out more about Cleo at [http://sna-projects.com/cleo](http://sna-projects.com/cleo).
 
-### License:
+### License
 
 Apache Public License (APL) 2.0
 
-### Artifacts:
+### Artifacts
 
 cleo-primer.war
 
-### Maven:
+### Maven
 
 groupId: com.sna-projects.cleo
 
