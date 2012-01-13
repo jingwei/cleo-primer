@@ -198,6 +198,7 @@
       };
 
       autoComplete.itemSelectEvent.subscribe(function(type, args) {
+        if(args[2][1] != undefined) document.getElementById("cleoInput").value = args[2][1];
         var url = args[2][3] == undefined ? "" : args[2][3];
         if(url != "") window.open(url);
       });
