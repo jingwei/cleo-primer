@@ -52,7 +52,7 @@
     </element>
     '
 
-### POST - Add a list of new elements:
+### POST - Add a list of new elements
 
     curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements -d '
     <element-list>
