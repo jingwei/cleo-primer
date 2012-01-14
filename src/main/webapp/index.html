@@ -155,14 +155,14 @@
 
     <script type="text/javascript"> 
     YAHOO.example.BasicRemote = function() {
-    // Instantiate the XHRDataSource
-    var dataSourceURL = "http://" + window.location.hostname + ":" + window.location.port + "/cleo-primer/rest/elements/search?";
-    var dataSource = new YAHOO.util.XHRDataSource(dataSourceURL);
+        // Instantiate the XHRDataSource
+        var dataSourceURL = "http://" + window.location.hostname + ":" + window.location.port + "/cleo-primer/rest/elements/search?";
+        var dataSource = new YAHOO.util.XHRDataSource(dataSourceURL);
 
-    dataSource.connMgr = YAHOO.util.Connect;
-    dataSource.connMgr.initHeader('Accept', "application/json", true);
+        dataSource.connMgr = YAHOO.util.Connect;
+        dataSource.connMgr.initHeader('Accept', "application/json", true);
 
-    dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
+        dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
         dataSource.responseSchema = {
           resultsList: "element",
           fields: ["id", "name", "title", "url", "score"]  
