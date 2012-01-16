@@ -1,4 +1,5 @@
-  <element>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<element>
     <id>1253</id>
     <name>Intel Corporation (INTC)</name>
     <title>Technology - Semiconductors</title>
@@ -7,4 +8,4 @@
     <term>intel</term>
     <term>corporation</term>
     <term>intc</term>
-  </element>
+</element>

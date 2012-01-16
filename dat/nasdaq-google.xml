@@ -1,4 +1,5 @@
-  <element>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<element>
     <id>1063</id>
     <name>Google Inc. (GOOG)</name>
     <title>Technology - Computer Software: Programming Data Processing</title>
@@ -7,4 +8,4 @@
     <term>google</term>
     <term>inc.</term>
     <term>goog</term>
-  </element>
+</element>
