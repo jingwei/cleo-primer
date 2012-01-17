@@ -9,6 +9,6 @@ if [ $# -eq 0 ]; then
 fi
 
 for f in $@; do
-    curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements/_ -d @$f
+    curl -v -X POST -H "Content-type: application/xml" -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements/_ --data-binary @$f
 done
 
