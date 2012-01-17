@@ -30,8 +30,25 @@
                 <version>${jetty.version}</version>
                 <configuration>
                     <reload>manual</reload>
-                    <stopKey>stop</stopKey>
-                    <stopPort>9966</stopPort>
+                    <connectors>
+                        <connector implementation="org.mortbay.jetty.nio.SelectChannelConnector">
+                            <port>8080</port>
+                        </connector>
+                    </connectors>
+                    <systemproperties>
+                        <systemproperty>
+                            <name>org.apache.commons.logging.Log</name>
+			    <value>org.apache.commons.logging.impl.Log4JLogger</value>
+                        </systemproperty>
+                        <systemproperty>
+                            <name>slf4j</name>
+                            <value>false</value>
+                        </systemproperty>
+                        <systemproperty>
+                            <name>log4j.configuration</name>
+			    <value>file:./src/main/resources/log4j.properties</value>
+                        </systemproperty>
+                    </systemproperties>
                 </configuration>
             </plugin>
         </plugins>
@@ -58,15 +75,15 @@
             <artifactId>jersey-spring</artifactId>
             <version>${jersey.version}</version>
         </dependency>
-	<dependency>
+        <dependency>
             <groupId>com.sna-projects.krati</groupId>
             <artifactId>krati</artifactId>
-	    <version>${krati.version}</version>
+            <version>${krati.version}</version>
         </dependency>
-	<dependency>
+        <dependency>
             <groupId>com.sna-projects.cleo</groupId>
             <artifactId>cleo</artifactId>
-	    <version>${cleo.version}</version>
+            <version>${cleo.version}</version>
         </dependency>
     </dependencies>
     
@@ -80,7 +97,7 @@
     
     <properties>
         <jdkLevel>1.6</jdkLevel>
-	<jersey.version>1.0.2</jersey.version>
+        <jersey.version>1.0.2</jersey.version>
         <jetty.version>6.1.25</jetty.version>
         <krati.version>0.4.3</krati.version>
         <cleo.version>1.2.2</cleo.version>
