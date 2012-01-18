@@ -85,7 +85,7 @@ public enum ElementDAO implements RestDAO<ElementDTO> {
         if(element != null && element.isSearchable()) {
             return element;
         } else {
-            return element;
+            return null;
         }
     }
     
