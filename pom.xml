@@ -38,7 +38,7 @@
                     <systemproperties>
                         <systemproperty>
                             <name>org.apache.commons.logging.Log</name>
-			    <value>org.apache.commons.logging.impl.Log4JLogger</value>
+                            <value>org.apache.commons.logging.impl.Log4JLogger</value>
                         </systemproperty>
                         <systemproperty>
                             <name>slf4j</name>
@@ -46,7 +46,7 @@
                         </systemproperty>
                         <systemproperty>
                             <name>log4j.configuration</name>
-			    <value>file:./src/main/resources/log4j.properties</value>
+                            <value>file:./src/main/resources/log4j.properties</value>
                         </systemproperty>
                     </systemproperties>
                 </configuration>
