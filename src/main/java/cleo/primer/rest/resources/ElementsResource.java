@@ -165,11 +165,11 @@ public class ElementsResource {
     @Path("/flush")
     @Produces(MediaType.TEXT_HTML)
     public Response flush() {
-    	try {
-    		ElementDAO.INSTANCE.getIndexer().flush();
+        try {
+            ElementDAO.INSTANCE.getIndexer().flush();
             return Response.status(Status.OK).build();
-    	} catch(IOException ioe) {
-    	    return Response.status(Status.SERVICE_UNAVAILABLE).entity(new ExceptionDTO(ioe)).build();
-    	}
+        } catch (IOException ioe) {
+            return Response.status(Status.SERVICE_UNAVAILABLE).entity(new ExceptionDTO(ioe)).build();
+        }
     }
 }
