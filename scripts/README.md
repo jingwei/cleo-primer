@@ -18,6 +18,12 @@
     
     curl -v -X GET -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements
     
+### GET - Retrieve a range of elements
+
+    curl -v -X GET -H "Accept: application/json" http://localhost:8080/cleo-primer/rest/elements/1..100
+    
+    curl -v -X GET -H "Accept: application/xml" http://localhost:8080/cleo-primer/rest/elements/1..100
+    
 ### DELETE - Remove an element
 
     curl -v -X DELETE http://localhost:8080/cleo-primer/rest/elements/1
