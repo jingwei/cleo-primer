@@ -99,14 +99,23 @@ public enum ElementDAO implements RestDAO<ElementDTO> {
             getIndexer().index(newElement);
         }
         
-        return oldElement;
+        if(oldElement != null && oldElement.isSearchable()) {
+            return oldElement;
+        } else {
+            return null;
+        }
     }
     
     @Override // HTTP-PUT
     public ElementDTO updateElement(ElementDTO element) throws Exception {
         ElementDTO oldElement = getElementStore().getElement(element.getElementId());
         getIndexer().index(element);
-        return oldElement;
+        
+        if(oldElement != null && oldElement.isSearchable()) {
+            return oldElement;
+        } else {
+            return null;
+        }
     }
     
     @Override // HTTP-POST

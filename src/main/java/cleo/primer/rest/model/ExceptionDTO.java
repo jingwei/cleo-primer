@@ -22,14 +22,14 @@ import java.io.StringWriter;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name = "message")
+@XmlRootElement(name = "exception")
 public class ExceptionDTO {
-    
-    @XmlElement(name = "class")
-    public String className;
     
     @XmlElement
     public String message;
+    
+    @XmlElement(name = "class")
+    public String className;
     
     @XmlElement(name = "stack-trace")
     public String stackTrace;
@@ -37,8 +37,8 @@ public class ExceptionDTO {
     public ExceptionDTO() {}
     
     public ExceptionDTO(Exception exception) {
-        this.className = exception.getClass().getName();
         this.message = exception.getMessage();
+        this.className = exception.getClass().getName();
         
         StringWriter stringWriter = new StringWriter();
         exception.printStackTrace(new PrintWriter(stringWriter));

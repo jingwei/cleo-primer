@@ -167,7 +167,7 @@ public class ElementsResource {
     public Response flush() {
         try {
             ElementDAO.INSTANCE.getIndexer().flush();
-            return Response.status(Status.OK).build();
+            return Response.status(Status.OK).entity("OK").build();
         } catch (IOException ioe) {
             return Response.status(Status.SERVICE_UNAVAILABLE).entity(new ExceptionDTO(ioe)).build();
         }
