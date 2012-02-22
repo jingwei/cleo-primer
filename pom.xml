@@ -99,8 +99,8 @@
         <jdkLevel>1.6</jdkLevel>
         <jersey.version>1.0.2</jersey.version>
         <jetty.version>6.1.25</jetty.version>
-        <krati.version>0.4.3</krati.version>
-        <cleo.version>1.2.3</cleo.version>
+        <krati.version>0.4.4</krati.version>
+        <cleo.version>1.2.4</cleo.version>
     </properties>
 
 </project>
