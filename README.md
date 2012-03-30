@@ -34,7 +34,7 @@ main folder:
 
     MAVEN_OPTS="-Xms1g -Xmx1g" mvn jetty:run -Dcleo.instance.name=Company -Dcleo.instance.type=cleo.primer.GenericTypeaheadInstance -Dcleo.instance.conf=src/main/resources/config/generic-typeahead
 
-You can customize you web application by choosing different values for parameters
+You can customize your web application by choosing different values for parameters
 <code>cleo.instance.name</code>, <code>cleo.instance.type</code> and <code>cleo.instance.conf</code>. Depending on the size
 of your data sets, you may need to specify a different JVM heap size.
 
