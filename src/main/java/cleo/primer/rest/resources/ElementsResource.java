@@ -36,7 +36,6 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriInfo;
 import javax.ws.rs.core.Response.Status;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import cleo.primer.ElementDAO;
@@ -47,7 +46,6 @@ import cleo.search.collector.Collector;
 import cleo.search.collector.SortedCollector;
 
 @Component
-@Scope("request")
 @Path("/elements")
 public class ElementsResource {
     // Allows to insert contextual objects such as 
