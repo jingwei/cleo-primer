@@ -18,6 +18,7 @@ package cleo.primer;
 
 import java.io.File;
 import java.io.FileFilter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -68,6 +69,22 @@ public class GenericTypeaheadInstance<E extends Element> implements TypeaheadIns
         indexer = new MultiIndexer<E>(name, indexerList);
         searcher = new MultiTypeahead<E>(name, searcherList);
         elementStore = new MultiArrayStoreElement<E>(storeList);
+        
+        // Flush indexes upon shutdown
+        addShutdownHook();
+    }
+    
+    protected void addShutdownHook() {
+        Runtime.getRuntime().addShutdownHook(new Thread() {
+            @Override
+            public void run() {
+                try {
+                    indexer.flush();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
     }
     
     protected GenericTypeahead<E> createTypeahead(File configFile) throws Exception {
